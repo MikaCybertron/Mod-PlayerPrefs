@@ -54,4 +54,9 @@ public class ModPlayerprefs {
 }
 ```
 
-# How to call the smali file to your mods
+# How to call the smali file into your mods
+- Copy and Place the smali files that you get from Android Studio
+- Then call the file with this smali code
+```smali
+invoke-static {p0}, Lcom/platinmods/ModPlayerprefs;->Modded(Landroid/content/Context;)V
+```
