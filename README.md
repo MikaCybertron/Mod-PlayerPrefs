@@ -1,5 +1,4 @@
-# Description
-Mod PlayerPrefs with Java or Smali for Unity Games (including IL2CPP)
+# How to Mod PlayerPrefs of Unity Games (including IL2CPP)
 
 # Q & A
 - Q: What is PlayerPrefs in Unity Games?
