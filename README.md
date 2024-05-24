@@ -1,4 +1,5 @@
 # How to Mod PlayerPrefs of Unity Games (including IL2CPP)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MikaCybertron/Mod-PlayerPrefs/total?style=for-the-badge&logo=windows10&link=https%3A%2F%2Fgithub.com%2FMikaCybertron%2FMod-PlayerPrefs%2Freleases)](https://github.com/MikaCybertron/Mod-PlayerPrefs/releases)
 
 # Q & A
 - Q: What is PlayerPrefs in Unity Games?
